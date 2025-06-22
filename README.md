@@ -30,8 +30,16 @@ copy the jar in rgbsi-share/target to : /usr/local/tomcat/webapps/share/WEB-INF/
 
 then restart both content(Alfresco) and share services
 
-# Using the them
+# Using the theme
 
 Now your custom theme will show up in the administration area in ACS. click the drop down and you will see Hyland Theme in the list. Select it and the branding including the login splashpage will change automatically.
+
+<img width="1053" alt="image" src="https://github.com/user-attachments/assets/f2f24304-8065-4778-8126-9064da065e6b" />
+<img width="1057" alt="image" src="https://github.com/user-attachments/assets/e9542d8b-097e-4b92-8369-adfbffe1bde0" />
+<img width="1062" alt="image" src="https://github.com/user-attachments/assets/69a01968-298f-44d2-a5ca-ff8306abda9e" />
+
+
+
+
 
 enjoy!
