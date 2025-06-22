@@ -23,10 +23,10 @@ also there's a share jar that need to be placed in the share/custom directory in
 
 restart content(Alfresco) and Share containers
 
-# Installing Jars directly in Tomcat
+# Installing Jars directly in Tomcat for content and share
 
 copy the jar in rgbsi-platform/target to: /usr/local/tomcat/webapps/alfresco/WEB-INF/lib
-copy the jar in rgbsi-share to : /usr/local/tomcat/webapps/share/WEB-INF/lib
+copy the jar in rgbsi-share/target to : /usr/local/tomcat/webapps/share/WEB-INF/lib
 
 then restart both content(Alfresco) and share services
 
