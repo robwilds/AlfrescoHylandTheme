@@ -1,4 +1,4 @@
-# custom Alfresco Theme
+# Custom Alfresco Theme
 
 Make sure you have Maven installed and all dependencies
 
