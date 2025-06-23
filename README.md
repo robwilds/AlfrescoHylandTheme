@@ -1,4 +1,4 @@
-# custom Alfresco Theme
+# Custom Alfresco Theme
 
 Make sure you have Maven installed and all dependencies
 
@@ -34,7 +34,7 @@ then restart both content(Alfresco) and share services
 
 Now your custom theme will show up in the administration area in ACS. click the drop down and you will see Hyland Theme in the list. Select it and the branding including the login splashpage will change automatically.
 
-<img width="1053" alt="image" src="https://github.com/user-attachments/assets/f2f24304-8065-4778-8126-9064da065e6b" />
+![image](https://github.com/user-attachments/assets/d3a1d8ff-43cc-4dce-a2c4-6be25fbe43fe)
 <img width="1057" alt="image" src="https://github.com/user-attachments/assets/e9542d8b-097e-4b92-8369-adfbffe1bde0" />
 <img width="1062" alt="image" src="https://github.com/user-attachments/assets/69a01968-298f-44d2-a5ca-ff8306abda9e" />
 
