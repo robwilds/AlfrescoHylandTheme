@@ -38,8 +38,4 @@ Now your custom theme will show up in the administration area in ACS. click the 
 <img width="1057" alt="image" src="https://github.com/user-attachments/assets/e9542d8b-097e-4b92-8369-adfbffe1bde0" />
 <img width="1062" alt="image" src="https://github.com/user-attachments/assets/69a01968-298f-44d2-a5ca-ff8306abda9e" />
 
-
-
-
-
 enjoy!
