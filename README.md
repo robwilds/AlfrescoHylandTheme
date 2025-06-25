@@ -30,7 +30,7 @@ then restart both content(Alfresco) and share services
 
 # Using the theme
 
-Now your custom theme will show up in the administration area in ACS. click the drop down and you will see Hyland Theme in the list. Select it and the branding including the login splashpage will change automatically.
+Now your custom theme will show up in the administration area in ACS. click the drop down and you will see Hyland Theme in the list. Select it and the branding including the login splashpage and logo and other styles will change automatically.
 
 ![image](https://github.com/user-attachments/assets/d3a1d8ff-43cc-4dce-a2c4-6be25fbe43fe)
 <img width="1057" alt="image" src="https://github.com/user-attachments/assets/e9542d8b-097e-4b92-8369-adfbffe1bde0" />
