@@ -12,21 +12,19 @@ once you have created your project perform
 
 sudo mvn clean
 
-sudo mvn install -DskipTests or mvn package -Dmaven.test.skip
+sudo mvn package
 
 please note: the docker content and share modules in the pom are commented out
 
 # Installing on ADP
 
-when the build is done, you have to put the platform jar in the content/custom directory in the ADP EC2 folder
-also there's a share jar that need to be placed in the share/custom directory in the ADP EC2 folder
+when the build is done, you have to put the share jar in the share/custom directory in the ADP EC2 folder
 
 restart content(Alfresco) and Share containers
 
 # Installing Jars directly in Tomcat for content and share
 
-copy the jar in rgbsi-platform/target to: /usr/local/tomcat/webapps/alfresco/WEB-INF/lib
-copy the jar in rgbsi-share/target to : /usr/local/tomcat/webapps/share/WEB-INF/lib
+copy the jar in hylandtheme-share/target to : /usr/local/tomcat/webapps/share/WEB-INF/lib
 
 then restart both content(Alfresco) and share services
 
